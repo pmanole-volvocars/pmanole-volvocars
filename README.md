@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Paul 👋
 
-<!--
-**pmanole-volvocars/pmanole-volvocars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Software Engineer with expertise in
 
-Here are some ideas to get you started:
+- C# and .NET
+- TypeScript
+- JavaScript
+- React
+- Node
+- and building full-stack web applications in general
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current passion and interests revolve around functional programming using:
+
+- [Effect-TS](https://github.com/Effect-TS/effect)
+- [F#](https://fsharp.org/)
+- [OCaml](https://ocaml.org)
+- [ReasonML](https://reasonml.github.io/)
+- [Rust](https://www.rust-lang.org/)
+
+### Links
+
+[Click here to go to my personal profile](https://github.com/brokenthorn/)

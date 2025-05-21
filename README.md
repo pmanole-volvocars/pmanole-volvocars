@@ -23,4 +23,5 @@ My current favorite technologies are:
 
 ### Links
 
-[Click here to go to my personal GitHub profile](https://github.com/brokenthorn/)
+- [My personal GitHub profile](https://github.com/brokenthorn/)
+- [Add me on LinkedIn](https://www.linkedin.com/in/paulsebastianmanole/)

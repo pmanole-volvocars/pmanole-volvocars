@@ -10,7 +10,7 @@ Volvo Cars is an amazing organization, with a strong engineering culture, and I'
 
 I focus on cloud-scale web applications running on Kubernetes, and I have worked primarily with .NET, SQL, TypeScript and React.
 
-I'm tech agnostic and love programming languages, especially functional ones. I believe learning FP has fundamentally changed the way I write code, even object-oriented code, and it has helped better understand the relationship between behavior and state.
+I'm tech agnostic and love programming languages, especially functional ones. I believe learning FP has fundamentally changed the way I write code, even object-oriented code, and it has helped me better understand the relationship between behavior and state.
 
 My current favorite technologies are:
 

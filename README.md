@@ -1,25 +1,20 @@
 ## Hi there, I'm Paul 👋
 
-I'm a software engineer working remotely, currently at Thoughtworks 😎
-
-This is my Volvo Cars 🚙 account.
-
-Volvo Cars is an amazing organization, with a strong engineering culture, and I'm proud to be working with them as a consultant.
+I'm a software engineer consultant from Thoughtworks. This is my Volvo Cars 🚙 account.
 
 ### A little bit about me
 
-I focus on cloud-scale web applications running on Kubernetes, and I have worked primarily with .NET, SQL, TypeScript and React.
+I focus on fullstack cloud web applications, and I have worked primarily with .NET, SQL, Node, TypeScript and React, practicing XP, TDD, BDD, DDD, and more.
 
-I'm tech agnostic and love programming languages, especially functional ones. I believe learning FP has fundamentally changed the way I write code, even object-oriented code, and it has helped me better understand the relationship between behavior and state.
+I'm a functional programming nerd and I like to incorporate functional programming principles in all code I write, regardless of language.
 
-My current favorite technologies are:
+Some of my favorite technologies are:
 
 - [Rust](https://www.rust-lang.org/)
-- [Effect for TypeScript](https://github.com/Effect-TS/effect)
+- [Effect-TS](https://github.com/Effect-TS/effect)
 - [F#](https://fsharp.org/)
 - [OCaml](https://ocaml.org)
-
-[Gleam](https://gleam.run/) is also catching my interest, but I haven't found time to try it yet.
+- [Gleam](https://gleam.run/)
 
 ### Links
 

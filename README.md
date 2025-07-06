@@ -18,5 +18,7 @@ Some of my favorite technologies are:
 
 ### Links
 
-- [My personal GitHub profile](https://github.com/brokenthorn/)
+- - [My personal GitHub profile](https://github.com/brokenthorn/)
 - [Add me on LinkedIn](https://www.linkedin.com/in/paulsebastianmanole/)
+- [My Blog](https://brokenthorn.github.io/)
+- X (ex-Twitter): [@brokenthorn](https://x.com/brokenthorn)
